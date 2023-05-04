@@ -1,0 +1,15 @@
+For Practice:
+
+1. Find the circumfrence of a circle program. 
+
+2. Find the hypothenuse of a triangle. 
+
+3. Increment, Decrement Reset number program. 
+
+4. Rolling 3 dies on click
+
+5. String slicing
+
+6. Subscribe checkbox
+
+7. Payment option radio box

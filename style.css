@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    margin: 140px 200px;
+}
+
+.container-two {
+    margin: 140px 200px;
+}
+
+.dice-one {
+    display: inline-block;
+    background: lightpink;
+    margin: auto;
+    padding: 24px;
+}
+
+.dice-two {
+    display: inline-block;
+    background-color: lightblue;
+    margin: auto;
+    padding: 24px;
+}
+#x-label {
+    display: inline-block;
+    background: lightpink;
+    margin: auto;
+    padding: 24px;
+}
+
+#y-label {
+    display: inline-block;
+    background-color: lightblue;
+    margin: auto;
+    padding: 24px;
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+    width: 115px;
+    border: none;
+    padding: 10px;
+}
+
+
+button:hover {
+    background: red;
+    background: #30379a;
+    color: white;
+    /* cursor: pointer; */
+}
