@@ -13,7 +13,6 @@ document.getElementById("roll-die").onclick = function (){
 
     document.getElementById("dice-one").innerHTML = a;
     document.getElementById("dice-two").innerHTML = b;
-
 }
 
 // working

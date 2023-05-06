@@ -13,5 +13,3 @@ For Practice:
 6. Subscribe checkbox
 
 7. Payment option radio box
-
-8.
